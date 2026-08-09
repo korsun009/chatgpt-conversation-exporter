@@ -1,0 +1,24 @@
+{
+  "name": "chatgpt-conversation-exporter",
+  "version": "2.0.3",
+  "description": "Export ChatGPT conversations to Markdown, JSON or ZIP from a bookmarklet or persistent DevTools Snippet.",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "test": "node chatgpt-conversation-exporter-v2.test.js",
+    "check": "node --check chatgpt-conversation-exporter-v2.js"
+  },
+  "keywords": [
+    "chatgpt",
+    "conversation-export",
+    "bookmarklet",
+    "devtools-snippet",
+    "markdown",
+    "json",
+    "zip"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/korsun009/chatgpt-conversation-exporter.git"
+  }
+}
